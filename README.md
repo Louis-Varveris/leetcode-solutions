@@ -30,6 +30,7 @@ Leetcode problems
 | [0047-permutations-ii](https://github.com/Louis-Varveris/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Louis-Varveris/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Louis-Varveris/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Louis-Varveris/leetcode-solutions/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Leetcode problems
 | [0040-combination-sum-ii](https://github.com/Louis-Varveris/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Louis-Varveris/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Louis-Varveris/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Louis-Varveris/leetcode-solutions/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
